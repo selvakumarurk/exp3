@@ -1,3 +1,6 @@
 [submodule "five"]
 	path = five
 	url = https://github.com/selvakumarurk/five.git
+[submodule "exp7"]
+	path = exp7
+	url = https://github.com/selvakumarurk/exp7.git
